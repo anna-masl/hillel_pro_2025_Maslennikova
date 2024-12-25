@@ -1,6 +1,7 @@
 package org.example;
 
-public class Main {
+public class
+Main {
     private static final double CONV_K = 2.20462;
     public static void main(String[] args) {
         System.out.println("Convert App.");
