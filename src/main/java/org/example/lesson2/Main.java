@@ -8,7 +8,7 @@ public class Main {
         double mls = 10;
         double kilometers = convMlToKms(mls);
         double miles = convKmToMls(kms);
-        System.out.println("Result is " + kilometers + " kilometers and " + miles + " miles.");
+        System.out.println("Result is: " + kilometers + " kilometers and " + miles + " miles.");
     }
 
     private static double convKmToMls(double kms) {
